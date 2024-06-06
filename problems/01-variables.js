@@ -25,9 +25,9 @@ let age;
 // 4. Print out the `firstName`, `lastName`, and `age` variables. What
 //    do you expect them to be when they get printed?
 
-//console.log(firstName);
-//console.log(lastName);
-//console.log(age);
+console.log(firstName);
+console.log(lastName);
+console.log(age);
 
 
 // 5. Assign the `age` variable to a number:
